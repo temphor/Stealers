@@ -1,4 +1,3 @@
--- What's Up? Dumped By Ingenious / Temphorious
 local Ingen1 = game:GetService("HttpService")
 local Ingen2 = game:GetService("HttpService")
 local Ingen3 = game:GetService("Players")
